@@ -610,9 +610,7 @@
     </script>
     <!-- Start copyright  -->
     <div class="footer-copyright">
-        <p class="footer-company">All Rights Reserved. &copy; 2023 <a href="#">SM SCIENCE</a> Design By :
-            <a href="https://icanforsoftware.com/">ICANFORSOFTWARE</a>
-        </p>
+        <p class="footer-company">All Rights Reserved. &copy; 2023 <a href="#">SM SCIENCE</a></p>
     </div>
     <!-- End copyright  -->
 
